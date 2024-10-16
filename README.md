@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website repository! This portfolio showcases my skills, projects, and experiences as a **Web Developer** and **UI/UX Designer**. It's designed to demonstrate my passion for web development and intuitive design.
 
-![Portfolio Preview](![Uploading Linkedin-post.png…]())
+![Portfolio Preview](![Uploading Linkedin-post.png…])
 
 ---
 
