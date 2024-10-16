@@ -29,7 +29,7 @@ Welcome to my personal portfolio website repository! This portfolio showcases my
 ├── 404.html            # Not found (Error) HTML file
 ├── README.md           # Project documentation
 └── assets/             # Images, icons, and media files
-
+```
 
 🛠️ Technologies Used
 
@@ -41,7 +41,7 @@ Welcome to my personal portfolio website repository! This portfolio showcases my
 
 🚀 Live Demo
 
-Experience the live version of my portfolio here: Live Portfolio
+Experience the live version of my portfolio here: https://taksinraja.netlify.app/
 
 📝 How to Use
 
@@ -50,17 +50,17 @@ Follow the steps below to view the project locally:
 Clone this repository to your local machine using the following command:
    ```bash
    git clone https://github.com/taksinraja/portfolio.git
-
+```
 	2.	Navigate to the Project Directory
 Use this command to move into the project folder:
    ```bash
    cd portfolio
-
+```
 	3.	Open in Your Browser
 Open the index.html file in your web browser to view the website locally:
    ```bash
    open index.html
-
+```
 📞 Contact Me
 
 If you’re interested in working together or have any inquiries, feel free to get in touch with me:
