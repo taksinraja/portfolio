@@ -46,17 +46,17 @@ Experience the live version of my portfolio here: https://taksinraja.netlify.app
 📝 How to Use
 
 Follow the steps below to view the project locally:
-	1.	Clone the Repository
+1.	Clone the Repository
 Clone this repository to your local machine using the following command:
    ```bash
    git clone https://github.com/taksinraja/portfolio.git
-```
-	2.	Navigate to the Project Directory
+   ```
+2.	Navigate to the Project Directory
 Use this command to move into the project folder:
    ```bash
    cd portfolio
 ```
-	3.	Open in Your Browser
+3.	Open in Your Browser
 Open the index.html file in your web browser to view the website locally:
    ```bash
    open index.html
